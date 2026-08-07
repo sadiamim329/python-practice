@@ -1,23 +1,22 @@
-# Artificial Intelligence Lab Assignments 🤖
+#Python Problem Solving & Practice 🐍
 
-This repository contains the laboratory assignments and implementations for the **Artificial Intelligence** course at **United International University (UIU)**.
-
----
-
-## 📌 Features & Algorithms
-
-* **Search Algorithms:** Implementation of Uninformed (BFS, DFS) and Informed/Heuristic Search (Dijkstra, A* Search).
-* **Optimization:** Star path calculation and pathfinding algorithms.
-* **Problem Solving:** Graph traversal and state-space tree generation.
+A comprehensive collection of Python programs, algorithms, data structures, and problem-solving practice codes.
 
 ---
 
-## 📁 Project Structure
+## 🎯 Topics Covered
+
+* **Basics:** Syntax, Control Statements, Functions, and Object-Oriented Programming (OOP).
+* **Data Structures:** Lists, Tuples, Dictionaries, Sets, Stacks, Queues, and Trees.
+* **Algorithms:** Sorting, Searching, Recursion, and Dynamic Programming.
+* **Libraries:** NumPy, Pandas, and Data Visualization tools.
+
+---
+
+## 📁 Repository Structure
 
 ```text
-├── Assignment-1/
-│   ├── Task1.ipynb          # Task 1 Implementation
-│   ├── Task2.ipynb          # Task 2 Implementation (Dijkstra & A*)
-│   ├── Coordinates.csv      # Star 3D coordinates
-│   └── distances.csv        # Distance matrix
+├── Basics/               # Fundamental Python exercises
+├── Data-Structures/      # Stack, Queue, Linked List implementations
+├── Problem-Solving/     # Online judge & custom practice problems
 └── README.md
